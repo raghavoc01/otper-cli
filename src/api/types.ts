@@ -30,7 +30,7 @@ export interface Board {
   key: string;
   description?: string | null;
   is_private: boolean;
-  archived_at?: string | null;
+  closed_at?: string | null;
   latest_card_number: number;
   invite_link?: string | null;
   created_at?: string;

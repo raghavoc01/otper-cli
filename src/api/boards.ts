@@ -9,7 +9,7 @@ const BOARD_FIELDS = /* GraphQL */ `
   description
   is_private
   latest_card_number
-  archived_at
+  closed_at
   created_at
   updated_at
 `;
